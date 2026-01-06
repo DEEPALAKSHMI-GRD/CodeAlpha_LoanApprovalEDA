@@ -1,0 +1,16 @@
+Applicant_ID,Age,Gender,Education,Employment_Type,Annual_Income,Credit_Score,Loan_Amount,Loan_Term,Loan_Status
+A001,25,Male,Graduate,Salaried,300000,720,200000,36,Approved
+A002,32,Female,Graduate,Self_Employed,450000,680,250000,48,Approved
+A003,45,Male,Not Graduate,Salaried,280000,590,180000,24,Rejected
+A004,29,Female,Graduate,Salaried,500000,760,300000,60,Approved
+A005,40,Male,Graduate,Self_Employed,350000,610,220000,36,Rejected
+A006,35,Female,Graduate,Salaried,600000,810,350000,60,Approved
+A007,28,Male,Not Graduate,Salaried,260000,580,150000,24,Rejected
+A008,50,Male,Graduate,Salaried,700000,790,400000,72,Approved
+A009,31,Female,Graduate,Self_Employed,420000,650,230000,36,Approved
+A010,38,Male,Graduate,Salaried,480000,700,260000,48,Approved
+A011,27,Female,Not Graduate,Salaried,240000,560,140000,24,Rejected
+A012,44,Male,Graduate,Self_Employed,520000,690,280000,60,Approved
+A013,36,Female,Graduate,Salaried,460000,720,300000,48,Approved
+A014,52,Male,Not Graduate,Salaried,310000,600,200000,36,Rejected
+A015,30,Female,Graduate,Salaried,390000,740,220000,36,Approved
